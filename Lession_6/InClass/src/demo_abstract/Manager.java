@@ -9,7 +9,7 @@ package demo_abstract;
  *
  * @author Tran Manh Truong
  */
-public  class Manager extends Employee {
+public class Manager extends Employee {
     public double business_amount;
 
     public Manager()
