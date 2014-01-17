@@ -4,6 +4,8 @@ Learn JavaCore with AzHung
 
 Author: AzHung
 
+Author URL: http://azhung.com
+
 Date: 1/1/2014
 
 Description: This is my folder java core. I learned java core before learn Android. I hope you like it!
