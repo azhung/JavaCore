@@ -1,2 +1,0 @@
-demo_java_util.demoHashTable
-demo_java_util.Mobile
